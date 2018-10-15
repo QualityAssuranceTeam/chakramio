@@ -1,0 +1,14 @@
+{
+  "name": "chakramio",
+  "version": "1.0.0",
+  "description": "rest api testing tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chakram": "^1.5.0"
+  }
+}
