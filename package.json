@@ -4,7 +4,8 @@
   "description": "rest api testing tool",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/*.js"
+    "test": "mocha test/*.js",
+    "test:watch": "mocha -w test/*.js"
   },
   "author": "",
   "license": "ISC",
